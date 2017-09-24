@@ -60,5 +60,8 @@ lib/
 #
 .jest/
 
-#vscode thing
+# vscode thing
 .vscode
+
+# yarn things
+yarn.lock
