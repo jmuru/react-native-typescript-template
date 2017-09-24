@@ -1,0 +1,2 @@
+I tried to run the repo provided by Microsoft (https://github.com/Microsoft/TypeScript-React-Native-Starter), but kept running into problems. I ended up creating the app using the 
+[React Documentation](https://facebook.github.io/react-native/docs/getting-started.html) and then following the directions provided by Microsoft in their react-native typescript repo (first link) README. I suggest you get theirs though lol.
